@@ -82,5 +82,43 @@ section{
     font-size: 16px;
     color: #364147;
 }
+.header-nav{
+
+    bottom: 1px;
+    color: #a0a0a0;
+}
+.brand{
+
+    size: 170x85px;
+    margin-left: -15px;
+    margin-right: 60px;
+}
+.logo{
+
+    max-width: 100%;
+    height: auto;
+}
+.search-box{
+
+    size: 330x30px;
+    padding: 6px 12px;
+    border: 1px;
+    color: #a0a0a0;
+}
+.search-button{
+
+    background-color: #a0a0a0;
+    color: #ffffff;
+    size: 100x30px;
+    border: 0;
+    padding: 0;
+}
+.nav-list{
+
+    padding-left: 0;
+    width: 575px;
+    margin-top: 10px;
+    
+}
 
  /************************************/
