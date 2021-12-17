@@ -104,8 +104,8 @@ section{
     width: 330px;
     height: 30px;
     padding: 6px 12px;
-    border: 1px;
-    color: #a0a0a0;
+    border: 1px #a0a0a0;
+    
 }
 .search-button{
 
@@ -136,7 +136,7 @@ section{
 }
 .account{
 
-    text-align: left;
+    text-align: right;
     padding: 15px;
     color: #364147;
     font-size: 18px;
